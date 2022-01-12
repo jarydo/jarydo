@@ -3,7 +3,7 @@
 My name is Jaryd and I am a first-year Computer Science student at the University of Waterloo! I'm a continuous learner and problem solver who isn't afraid to step up to a challenge! Here are some fun facts about me:
 
 - 🎥 I'm passionate about movies and have directed 2 short films (one of which won Best Picture at my high school film festival), along with writing articles for my high school newspaper and have written a review professionally for a small movie
-- 🎵 I love to listen to music and play Tenor Saxophone and Piano (and am currently learning guitar)
+- 🎵 I love to listen to music and play tenor saxophone and piano (and am currently learning guitar)
 - ⛷️ I enjoy skiing
 
 I'm currently learning: 
