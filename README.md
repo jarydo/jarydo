@@ -7,7 +7,7 @@ My name is Jaryd and I am a first-year Computer Science student at the Universit
 - ⛷️ I enjoy skiing
 
 I'm currently learning: 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **jarydo/jarydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
