@@ -1,11 +1,4 @@
-### Hi there 👋
-
-My name is Jaryd and I am a third-year Computer Science student at the University of Waterloo! I'm a continuous learner and problem solver who isn't afraid to step up to a challenge! Here are some fun facts about me:
-
-- 🎥 I'm passionate about movies and have directed 2 short films (one of which won Best Picture at my high school film festival), along with writing articles for my high school newspaper and have written a review professionally for a small movie
-- 🎵 I love to listen to music and play tenor saxophone, guitar, and piano
-- ⛷️ I enjoy skiing
-
+https://letterboxd.com/jarydo/
 
 <!--
 
