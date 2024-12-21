@@ -1,4 +1,4 @@
-https://letterboxd.com/jarydo/
+https://jaryddiamond.com
 
 <!--
 
